@@ -1,0 +1,29 @@
+_repo: Mr-Blake-s-Walking-Stick-A-Christmas-Story-for-Boys-and-Girls_52935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: ''
+gutenberg_issued: '2016-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Clergy -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Christmas -- Juvenile fiction'
+- GITenberg
+title: 'Mr. Blake''s Walking-Stick: A Christmas Story for Boys and Girls'
+url: http://www.gutenberg.org/ebooks/52935
